@@ -3,7 +3,7 @@
 My hobby is to watch movies. My favourite movies are by Marvel, thefore I have based my hoppy pgae on Marvel movies :)
 I ahve also added some information about myself in so my readers can know a bit more about who created this page.
 ### How have I created this?
-I first drew out my desired layout on a notebook and then brang it to life on Visual Stuidio Code. I created my hobby page using HTML, CSS to style and position elements the why I would like.
+I first drew out my desired layout on a notebook and then brang it to life on Visual Stuidio Code. I created my website page using HTML, CSS to style and position elements the why I would like.
 
 ### Images:
 I used images on my page to create a nice visual for the topics I speak about. For example, picturs of my two cats.
